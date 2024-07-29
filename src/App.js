@@ -4,7 +4,6 @@ import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
 import Publication from "./components/publication/Publication";
-import Contact from "./components/contact/Contact";
 import FooterBottom from "./components/footer/FooterBottom";
 
 function App() {
@@ -17,7 +16,6 @@ function App() {
       <Projects />
       <Resume />
       <Publication />
-      <Contact />
       <FooterBottom /> 
       </div>
     </div>
