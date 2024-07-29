@@ -49,8 +49,6 @@ const Publication = () => {
           </div>
         </div>
       </div>
-    </section>
-   <section id="publication" className="w-full py-20 border-b-[1px] border-b-black">
       <div className="flex justify-center items-center text-center mb-8">
         <Title des="Publication" />
       </div>
@@ -95,7 +93,6 @@ const Publication = () => {
         </div>
       </div>
     </section>
-
   );
 };
 
