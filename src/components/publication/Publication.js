@@ -19,38 +19,31 @@ const Publication = () => {
             />
             <div className="w-full flex flex-col justify-center md:justify-start text-center md:text-left mt-4 md:mt-0">
               <a
-                href="https://www.jetir.org/view?paper=JETIR2403307"
+                href="https://courses.edx.org/certificates/d90a2be433af419aa6afa4fe3cea9495"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm uppercase text-designColor tracking-wide mb-2 inline-flex items-center"
               >
-                <p className='font-size'>Published Paper</p>
+                <p className='font-size'>Certification Link</p>
                 <RiExternalLinkLine className="ml-2 text-lg" />
               </a>
-              <h3 className="text-xl md:text-2xl font-bold">Sai Ram Aleti</h3>
-              <p className="text-base text-gray-500">Author</p>
             </div>
           </div>
           <div className="w-full lgl:w-[60%] h-full flex flex-col justify-between mt-8 lgl:mt-0">
             <div className="w-full h-auto py-6 bg-gradient-to-r from-[#1e2024] to-[#23272b] rounded-lg shadow-shadowOne p-4 lgl:p-6 flex flex-col justify-center gap-4">
               <div className="flex flex-col items-center py-4 border-b-2 border-b-gray-900">
                 <h3 className="text-xl lgl:text-2xl font-medium tracking-wide text-center">
-                  Severity based Hierarchical ECG Classification using 
-                  Neural Networks.
+                  Java Programming Fundamentals
                 </h3>
-                <p className="text-base text-gray-400 mt-3 text-center">
-                  via JETIR - March 2024
-                </p>
               </div>
               <p className="text-base text-gray-400 font-medium tracking-wide leading-6 text-center">
-                <b>"SEVERITY BASED HIERARCHICAL ECG CLASSIFICATION USING NEURAL NETWORKS"</b>, International Journal of Emerging Technologies and Innovative Research (www.jetir.org), ISSN:2349-5162, Vol.11, Issue 3, page no.d49-d53, March-2024.
+                An introductory course covering Java basics, including variables, data types, control structures, and object-oriented programming. It includes practical exercises in writing and debugging Java code, providing essential skills for software development and laying the groundwork for advanced programming.
               </p>
             </div>
           </div>
         </div>
       </div>
-      <div className="flex justify-center items-center text-center mb-8">
-        <Title des="Publication" />
+      <div className="mt-5 flex justify-center items-center text-center mb-8">
       </div>
       <div className="max-w-6xl mx-auto">
         <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
